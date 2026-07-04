@@ -1,5 +1,3 @@
-# QA-Portfolio
-QA portfolio with manual testing, API testing, and automation practice projects.
 # QA Portfolio
 
 ##  About Me
@@ -53,5 +51,4 @@ To build strong QA skills and become a Software QA Engineer.
 
 ---
 
-## 📫 Contact
-Add your LinkedIn or email here
+
