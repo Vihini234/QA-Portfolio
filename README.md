@@ -1,54 +1,44 @@
 # QA Portfolio
 
-##  About Me
-I am a Computer Science undergraduate passionate about Software Quality Assurance and testing.  
-This repository contains my QA learning journey and practical projects.
+Hi, I'm Vihini — a Computer Science undergraduate passionate about
+Software Quality Assurance, currently seeking a QA Engineering
+internship. This repository contains my hands-on testing projects.
+
+📫 [LinkedIn](your-linkedin-url-here)
 
 ---
 
-##  What this repository contains
+## 📌 SauceDemo Manual Testing
 
-###  Manual Testing
-- Test cases
-- Test plans
-- Bug reports
-- Exploratory testing
+Complete manual testing of the SauceDemo e-commerce application.
 
-###  API Testing
-- Postman collections
-- REST API testing (GET, POST, PUT, DELETE)
+**[→ View the project](./SauceDemo-Manual-Testing)**
 
-###  SQL Practice
-- Basic to intermediate SQL queries
+- ✅ 28 test cases across Login, Products, Cart & Checkout, designed
+  using boundary value analysis and equivalence partitioning
+- 🐞 5 defects documented with severity/priority analysis and
+  screenshot evidence
+- 📋 Test plan covering scope, approach, and estimation
+- 🔎 Charter-based exploratory testing sessions
 
-### 🤖 Automation Testing (Selenium)
-- Java + Selenium scripts
-- TestNG framework
-- Page Object Model (POM)
+**Key finding:** for some user types, checkout accepts an empty
+Last Name field and the Finish button silently fails — completely
+blocking order completion. (See Bug-Reports.)
 
 ---
 
-## Tools & Technologies
-- Jira
-- Postman
-- Selenium WebDriver
-- Java
-- SQL
-- Git & GitHub
+## 🗺️ Roadmap
+
+| Project | Status |
+|---------|--------|
+| Restful Booker API testing (Postman) | 🔨 In progress |
+| Selenium + Java automation framework (TestNG, POM) | 📅 Planned |
+| SQL test-data validation project | 📅 Planned |
 
 ---
 
-##  Projects Included
-- SauceDemo Manual Testing
-- API Testing using ReqRes
-- SQL Practice Queries
-- Selenium Automation (coming soon)
+## 🛠️ Skills & Tools
 
----
-
-##  Goal
-To build strong QA skills and become a Software QA Engineer.
-
----
-
-
+Manual testing · Test case design (BVA, EP) · Bug reporting · Jira ·
+Postman (learning) · Java (learning) · Selenium (learning) · SQL
+(learning) · Git & GitHub
